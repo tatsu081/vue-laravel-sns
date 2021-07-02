@@ -7,7 +7,15 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Article extends Model
 {
-    public function user():BelongsTo{
+    //==========ここから追加==========
+    protected $fillable = [
+        'title',
+        'body',
+    ];
+    //==========ここまで追加==========
+
+    public function user()
+    {
         return $this->belongsTo('App\User');
     }
 }
