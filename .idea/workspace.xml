@@ -2,26 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e4e378a-42d8-48ad-9fdf-0485d8ec59b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/laravel/resources/views/articles/form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/resources/views/articles/card.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/resources/views/articles/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/resources/views/articles/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laravel/resources/views/auth/passwords/email.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/1249" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/1249" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/13117/pg_internal.init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16384/pg_internal.init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16394" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16394" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16396" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16396" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16428" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16428" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16403" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16403" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16405" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16405" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16407" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16407" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16430" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16430" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16437" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16437" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2224" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2224" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/pg_internal.init" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/global/pg_internal.init" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_0.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_13117.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_13117.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16384.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16385.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16385.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_13117.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16384.stat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16385.stat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/global.stat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_wal/000000010000000000000001" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/postgres/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_xact/0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/app/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/app/Article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/postgres/postmaster.pid" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/postmaster.pid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel/app/Http/Controllers/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/app/Http/Controllers/ArticleController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/resources/views/articles/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/articles/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/resources/views/articles/form.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/articles/form.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel/resources/views/articles/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/articles/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/auth/login.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +164,7 @@
       <updated>1625032688954</updated>
       <workItem from="1625032690679" duration="1853000" />
       <workItem from="1625138684768" duration="12537000" />
-      <workItem from="1625212404769" duration="6088000" />
+      <workItem from="1625212404769" duration="11732000" />
     </task>
     <servers />
   </component>
@@ -164,11 +172,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="375" key="NewPhpFileDialog" timestamp="1625216951441">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="592" y="347" key="NewPhpFileDialog" timestamp="1625273367801">
+      <screen x="0" y="25" width="1440" height="772" />
     </state>
     <state x="592" y="375" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1625216951441" />
+    <state x="592" y="347" key="NewPhpFileDialog/0.25.1440.772/-1920.25.1920.1055@0.25.1440.772" timestamp="1625273367801" />
     <state x="592" y="350" key="NewPhpFileDialog/0.25.1440.781/-1920.25.1920.1055@0.25.1440.781" timestamp="1625150976228" />
+    <state x="592" y="390" key="NewPhpFileDialog/0.25.1440.875/-1920.25.1920.909@0.25.1440.875" timestamp="1625235463660" />
     <state x="437" y="125" width="670" height="676" key="search.everywhere.popup" timestamp="1625181132327">
       <screen x="0" y="25" width="1440" height="776" />
     </state>
