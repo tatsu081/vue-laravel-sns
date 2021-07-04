@@ -1,66 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e4e378a-42d8-48ad-9fdf-0485d8ec59b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/laravel/resources/js/components/ArticleLike.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laravel/resources/lang/ja/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laravel/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laravel/resources/views/emails/password_reset.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/1247" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/1247" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/1249" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/1249" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/1259" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/1259" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16386" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16386" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16388" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16388" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16392" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16392" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16396" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16396" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16409" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16409" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/16415" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/16415" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2224" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2224" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2579" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2579" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2604" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2604" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2606" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2606" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2608" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2608" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2610" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2610" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2620" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2620" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2656" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2656" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2657" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2657" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2658" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2658" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2659" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2659" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2662" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2662" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2663" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2663" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2664" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2664" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2665" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2665" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2666" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2666" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2667" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2667" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2673" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2673" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2674" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2674" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2678" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2678" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2679" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2679" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2699" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2699" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2701" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2701" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2702" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2702" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2703" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2703" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/2704" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/2704" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/3455" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/3455" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/base/16385/5002" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/base/16385/5002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/global/pg_control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_0.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_0.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_13117.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_13117.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16384.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16384.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16385.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/db_16385.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/global.stat" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_stat_tmp/global.stat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_wal/000000010000000000000001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postgres/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/postgres/pg_xact/0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/app/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/app/Article.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/resources/views/articles/card.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/resources/views/articles/card.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="4e4e378a-42d8-48ad-9fdf-0485d8ec59b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +144,9 @@
       <workItem from="1625138684768" duration="12537000" />
       <workItem from="1625212404769" duration="11732000" />
       <workItem from="1625273918239" duration="5438000" />
+      <workItem from="1625293669000" duration="7769000" />
+      <workItem from="1625316575672" duration="672000" />
+      <workItem from="1625317275420" duration="9078000" />
     </task>
     <servers />
   </component>
@@ -210,11 +154,16 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="344" key="NewPhpFileDialog" timestamp="1625276426840">
-      <screen x="0" y="25" width="1440" height="766" />
+    <state x="184" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625316638208">
+      <screen x="0" y="25" width="1440" height="772" />
+    </state>
+    <state x="184" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.772/-1920.25.1920.1055@0.25.1440.772" timestamp="1625316638208" />
+    <state x="592" y="339" key="NewPhpFileDialog" timestamp="1625368541056">
+      <screen x="0" y="25" width="1440" height="753" />
     </state>
     <state x="592" y="375" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1625216951441" />
-    <state x="592" y="344" key="NewPhpFileDialog/0.25.1440.766/-1920.25.1920.1055@0.25.1440.766" timestamp="1625276426840" />
+    <state x="592" y="339" key="NewPhpFileDialog/0.25.1440.753@0.25.1440.753" timestamp="1625368541056" />
+    <state x="592" y="344" key="NewPhpFileDialog/0.25.1440.766/-1920.25.1920.1055@0.25.1440.766" timestamp="1625347940292" />
     <state x="592" y="347" key="NewPhpFileDialog/0.25.1440.772/-1920.25.1920.1055@0.25.1440.772" timestamp="1625273367801" />
     <state x="592" y="350" key="NewPhpFileDialog/0.25.1440.781/-1920.25.1920.1055@0.25.1440.781" timestamp="1625150976228" />
     <state x="592" y="390" key="NewPhpFileDialog/0.25.1440.875/-1920.25.1920.909@0.25.1440.875" timestamp="1625235463660" />
